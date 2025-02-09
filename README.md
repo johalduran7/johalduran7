@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Johal Duran!
+## Hi there 👋, I'm John Duran!
 
 I'm an AWS Solutions Architect Associate and Terraform Associate certified engineer passionate about Cloud, DevOps, and automation.  
 
