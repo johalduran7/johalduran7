@@ -2,7 +2,7 @@
 I'm an AWS Solutions Architect Associate and Terraform Associate certified engineer passionate about Cloud, DevOps, and automation.  
 
 🌱 Currently learning: Advanced Kubernetes and preparing to clear the AWS DevOps Professional certification  
-🔭 Developing a comprehensive DevOps portfolio project that showcases infrastructure as code, automation, and CI/CD best practices, with detailed tutorials on each aspect. Refer to the pinned projects below for more details.
+🔭 Developing a comprehensive DevOps portfolio project that showcases infrastructure as code, automation, and CI/CD best practices, with detailed tutorials on each aspect.
 👯 Looking to collaborate on: Open-source DevOps and cloud projects  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/johnduranalzate/)  
 
